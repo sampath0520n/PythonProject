@@ -1,0 +1,11 @@
+#operator precedence examples 
+print("Example 1:", 10 + 5 * 2)
+print("Example 2:", (10 + 5) * 2)
+print("Example 3:", 2 + 3 ** 2)
+print("Example 4:", 20 / 5 + 3)
+print("Example 5:", 20 - 5 * 2)
+print("Example 6:", 10 + 20 / 5 * 2)
+print("Example 7:", 10 > 5 and 20 > 10)
+print("Example 8:", not 10 > 5 or 5 > 10)
+print("Example 9:", 10 + 2 * 3 ** 2)
+print("Example 10:", (10 + 2) * 3 ** 2)
