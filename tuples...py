@@ -1,0 +1,5 @@
+A=(12,34,56,78)
+print(A[0])
+print(A[-1])
+print(A.count(12))
+print(A.index(56))
